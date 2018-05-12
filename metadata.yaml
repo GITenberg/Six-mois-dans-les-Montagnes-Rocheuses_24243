@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5567
     wikipedia: http://en.wikipedia.org/wiki/Honoré_Beaugrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24243#Six-mois-dans-les-Montagnes-Rocheuses
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2008-01-11'
 gutenberg_type: Text
