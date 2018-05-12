@@ -1,0 +1,30 @@
+_repo: Six-mois-dans-les-Montagnes-Rocheuses_24243
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaugrand, Honoré
+    alias: Beaugrand, Honore
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '5567'
+    url: http://www.gutenberg.org/2009/agents/5567
+    wikipedia: http://en.wikipedia.org/wiki/Honoré_Beaugrand
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2008-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24243'
+  lccn: 02001873
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains'
+- !lcc 'F721'
+title: Six mois dans les Montagnes-Rocheuses
+url: http://www.gutenberg.org/ebooks/24243
